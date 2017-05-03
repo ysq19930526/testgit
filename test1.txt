@@ -1,1 +1,1 @@
-this is testgit commit by testgit master
+this is test fot push together commit by master
